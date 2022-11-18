@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OldToNew": {
+      "commandName": "Project",
+      "commandLineArgs": " -in D:\\ProsumerGrid\\OldToNew\\OldToNew\\FeederData\\ -out D:\\ProsumerGrid\\OldToNew\\OldToNew\\FeederDataOut\\"
+    }
+  }
+}
